@@ -1,0 +1,13 @@
+h1 {
+    color: hsl(350.14deg 100% 85.69%);
+    margin-left:150px;
+}
+
+table, th, td {
+  border: 2px solid hsl(350.14deg 100% 85.69%);
+  text-align: center;
+}
+table {
+  width: 70%;
+  margin-left:150px;
+}
