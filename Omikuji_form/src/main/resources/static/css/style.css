@@ -1,0 +1,10 @@
+@charset "ISO-8859-1";
+
+.myDiv{
+  border: 5px outset red;
+  background-color: lightblue;    
+  text-align: center;
+  margin-left:350px;
+  margin-right:350px;
+  margin-top:50px;	
+}
